@@ -2,13 +2,6 @@
 
 Entrenador acústico gratuito para ejercicios de series y repeticiones. Funciona como web estática en GitHub Pages, sin servidor ni dependencias.
 
-## Publicar en GitHub Pages
-
-1. Crea un repositorio nuevo en GitHub, por ejemplo `reptempo`.
-2. Sube `index.html`, `style.css` y `app.js` a la **raíz** del repositorio (no dentro de una carpeta).
-3. En el repositorio, abre **Settings → Pages**.
-4. En **Build and deployment**, selecciona **Deploy from a branch**, rama `main`, carpeta `/(root)` y guarda.
-5. La URL habitual será `https://TU-USUARIO.github.io/reptempo/` una vez publicado.
 
 ## Uso
 
